@@ -28,7 +28,8 @@ pkgsApps=(
     firefox
     vesktop
     steam
-    spotify-launcher
+    spotify
+    vscodium
     lobster
     ani-cli
 )
